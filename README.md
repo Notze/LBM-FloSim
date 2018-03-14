@@ -6,6 +6,7 @@ The Lattice-Boltzmann-Method Flow Simulator (LBM-FlowSim or short FlowSim) is a 
 
 # requirements
 * a working OpenCL installation
+  * including the OpenCL c++ wrapper V2.1 from Khronos Group (get it [here}(https://www.khronos.org/registry/OpenCL/api/2.1/cl.hpp), on Ubuntu you can just put this file in the OpenCL folder e.g. "/usr/include/cl")
 * a c++ compiler
 * make
 
